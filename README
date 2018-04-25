@@ -1,6 +1,10 @@
 # inference-on-tvm-runtime-using-c-with-gpu-enabled
 
-run: <br>
-python resnet18_v1_model_generation.py <br>
-make <br>
-./resnet18_classifier <br>
+run:
+
+python resnet18_v1_model_generation.py
+
+make
+
+./resnet18_classifier
+
